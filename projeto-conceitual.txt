@@ -1,0 +1,4 @@
+Filme - entidade
+Idiomas - atributo multivalorado
+Título - atributo simples
+Personagens - atributo composto
